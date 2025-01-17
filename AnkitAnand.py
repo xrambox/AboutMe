@@ -67,7 +67,7 @@ with tabs[0]:
         **Hi there!** I am a passionate professional with expertise in **Machine Learning**, **Deep Learning**, and **Software Development**.
         """
     )
-    st.image("ankitanand1.jpg", caption="Your Photo Here", use_container_width=True)
+    st.image("AnkitAnand.jpg", caption="Your Photo Here", use_container_width=True)
 
 # About Me Page
 with tabs[1]:
